@@ -1,0 +1,64 @@
+{
+    "always_reply_voice": false,
+    "channel_type": "gewechat",
+    "character_desc": "",
+    "claude_api_key": "",
+    "conversation_max_tokens": 500,
+    "coze_api_base": "https://api.coze.cn/open_api/v2",
+    "coze_api_key": "",
+    "coze_bot_id": "",
+    "dashscope_api_key": "",
+    "deepseek_api_base": "https://api.deepseek.com/v1",
+    "deepseek_api_key": "",
+    "dify_api_base": "https://api.dify.ai/v1",
+    "dify_api_key": "",
+    "expires_in_seconds": 1600,
+    "gemini_api_key": "",
+    "gewechat_app_id": "",
+    "gewechat_base_url": "",
+    "gewechat_callback_url": "",
+    "gewechat_download_url": "",
+    "gewechat_token": "",
+    "group_chat_keyword": [
+        "{问题}"
+    ],
+    "group_chat_prefix": [
+        "biu",
+        "biubiu",
+        "@biubiu"
+    ],
+    "group_name_white_list": [
+        "WechatBot测试1",
+        "WechatBot测试2",
+        "WechatBot测试3"
+    ],
+    "group_speech_recognition": false,
+    "hot_reload": false,
+    "image_create_prefix": [
+        ""
+    ],
+    "linkai_api_key": "",
+    "linkai_app_code": "",
+    "model": "qwen-max",
+    "no_need_at": true,
+    "open_ai_api_base": "https://api.302.ai/v1/chat/completions",
+    "open_ai_api_key": "",
+    "proxy": "",
+    "siliconflow_api_base": "https://api.siliconflow.cn/v1/chat/completions",
+    "siliconflow_api_key": "",
+    "siliconflow_model": "deepseek-ai/DeepSeek-V3",
+    "single_chat_prefix": [
+        ""
+    ],
+    "single_chat_reply_prefix": "",
+    "speech_recognition": false,
+    "subscribe_msg": "",
+    "temperature": 0.5,
+    "text_to_voice": "dify",
+    "use_linkai": false,
+    "voice_reply_voice": false,
+    "voice_to_text": "dify",
+    "zhipu_ai_api_base": "https://open.bigmodel.cn/api/paas/v4",
+    "zhipu_ai_api_key": "",
+    "zhipuai_model": "glm-4-flash-250414"
+}
