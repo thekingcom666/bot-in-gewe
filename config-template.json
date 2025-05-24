@@ -15,8 +15,8 @@
     "expires_in_seconds": 1600,
     "gemini_api_key": "",
     "gewechat_app_id": "",
-    "gewechat_base_url": "",
-    "gewechat_callback_url": "",
+    "gewechat_base_url": "http://api.geweapi.com/gewe/v2/api",
+    "gewechat_callback_url": "http://192.168.1.112:9919/v2/api/callback/collect",
     "gewechat_download_url": "",
     "gewechat_token": "",
     "group_chat_keyword": [
